@@ -1,4 +1,4 @@
-# Ex04 Places Around Me
+![382710591-b6cb4d9d-1ced-4dce-abf6-8b9f9a2a6546](https://github.com/user-attachments/assets/d3513918-dcfa-40b6-a614-3cc8995f5f31)# Ex04 Places Around Me
 ## Date: 04-12-2024
 
 ## AIM
@@ -152,12 +152,9 @@ nawapet.html
 
 
 ## OUTPUT
-![alt text](<Screenshot 2024-10-24 110018-1.png>)
+![382710303-99bac25a-75c9-4197-ac92-afd226c1361a](https://github.com/user-attachments/assets/f156cc14-c01a-4e91-bb75-1fb49e4d2f39)
+![382710411-d3b19419-2e94-4ef4-ae87-f8a6117e3738](https://github.com/user-attachments/assets/022b48bd-e459-4293-bb54-3d43e0ac7d19)
 
-![alt text](<Screenshot 2024-10-24 110040-1.png>)
-![alt text](<Screenshot 2024-10-24 110059-1.png>)
 
-![alt text](<Screenshot 2024-10-24 110117-1.png>)
-![alt text](<Screenshot 2024-10-24 110133-1.png>)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
