@@ -38,7 +38,6 @@ map.html
             <font color="magenda"><b>ANDHRA</b></font>
         </h1>
         <h3 align="center">
-            <font color="black"><b>Mannam Varun Chowdary</b> (212221040098)</b></font>
         </h3>
         <center>
             
